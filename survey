@@ -10,7 +10,7 @@
   <groupId>com.mycompany.app</groupId>
   <artifactId>my-module</artifactId>
   <version>1</version>
-</project>
+  
 <!DOCTYPE HTML>
 <!-- This is how HTML comments look like -->
 <html>
@@ -66,3 +66,5 @@ What genre of movies do you like?
 </form>
 </body>
 </html>
+
+</project>
